@@ -34,3 +34,5 @@ next-env.d.ts
 
 # raw scrap assets
 /raw_assets
+
+.vercel
